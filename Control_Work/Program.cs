@@ -16,6 +16,16 @@
             Console.WriteLine(str);
         }
     }
-     
+     static string[] FilterStrings(string[] inputArray)
+    {
+        
+        int count = 0;
+        foreach (string str in inputArray)
+        {
+            if (str.Length <= 3)
+            {
+                count++;
+            }
+        }
  
 }
