@@ -1,0 +1,15 @@
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\bin\Debug\net7.0\Control_Work.exe
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\bin\Debug\net7.0\Control_Work.deps.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\bin\Debug\net7.0\Control_Work.runtimeconfig.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\bin\Debug\net7.0\Control_Work.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\bin\Debug\net7.0\Control_Work.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\obj\Debug\net7.0\Control_Work.csproj.AssemblyReference.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\obj\Debug\net7.0\Control_Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\obj\Debug\net7.0\Control_Work.AssemblyInfoInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\obj\Debug\net7.0\Control_Work.AssemblyInfo.cs
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\obj\Debug\net7.0\Control_Work.csproj.CoreCompileInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\obj\Debug\net7.0\Control_Work.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\obj\Debug\net7.0\refint\Control_Work.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\obj\Debug\net7.0\Control_Work.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\obj\Debug\net7.0\Control_Work.genruntimeconfig.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\Контрольная работа\Control.work\Control_Work\obj\Debug\net7.0\ref\Control_Work.dll
