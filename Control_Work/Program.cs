@@ -27,5 +27,20 @@
                 count++;
             }
         }
- 
+  
+        string[] resultArray = new string[count];
+
+        
+        int index = 0;
+        foreach (string str in inputArray)
+        {
+            if (str.Length <= 3)
+            {
+                resultArray[index] = str;
+                index++;
+            }
+        }
+
+        return resultArray;
+    }
 }
